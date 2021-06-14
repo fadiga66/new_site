@@ -1,0 +1,41 @@
+.tab{
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    box-shadow: 0 5px 50px rgb(0, 0, 0, 0.15);
+    cursor: pointer;
+    padding: 700px;
+    margin: 80px auto;
+    min-width: 300px;
+}
+.tr, td {
+    border: 1px solid;
+    background-color: rgba(240, 248, 255, 0.856);
+    margin: 100px auto;
+    text-align: center;
+    font-size: 30px;
+}
+.lup {
+    background-color: skyblue;
+    color: snow;
+    font-size: 30px;
+    font-variant: small-caps;
+}
+th{
+    text-align: center;
+    padding: 10px;
+}
+.pdg {padding: 40px;
+
+}
+.bgh { text-align: center;
+       box-shadow: 2px; 
+}
+.h4{
+    size: 600px;
+}
+.tef{
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 3px;
+    font-variant: small-caps;
+}
